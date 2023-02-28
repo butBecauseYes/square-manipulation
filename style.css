@@ -1,0 +1,23 @@
+h2 {
+    font-weight: 100;
+}
+
+h3 {
+    font-weight: 100;
+}
+
+body {
+    background-image: url("cube.jpeg");
+    color: wheat;
+}
+
+#footer {
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+}
+
+canvas {
+    background-color: wheat;
+}
